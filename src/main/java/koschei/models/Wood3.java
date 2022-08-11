@@ -13,6 +13,6 @@ public class Wood3 {
 
     @Override
     public String toString() {
-        return ", на дереве заяц белый-пребелый " + rabbit.toString();
+        return ", на дереве заяц белый-пребелый, но грязный " + rabbit.toString();
     }
 }
