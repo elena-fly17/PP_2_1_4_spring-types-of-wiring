@@ -11,6 +11,6 @@ public class Island2 {
 
     @Override
     public String toString() {
-        return ", уже выросла целая роща " + wood.toString();
+        return ", уже выросла целая роща, даже две " + wood.toString();
     }
 }
