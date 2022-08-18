@@ -8,7 +8,7 @@ public class Rabbit4 {
 
     @Override
     public String toString() {
-        return ", в зайце 2 утки " + duck.toString();
+        return ", в зайце 3 утки " + duck.toString();
     }
 
     @Autowired
